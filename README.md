@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F77737&height=120&section=header" />
 <h1 align="center">Hi 👋, I'm Sreeshna C</h1>
 <h3 align="center">Mobile App Developer | Android (Jetpack Compose + Kotlin) | Flutter (Dart)</h3>
 
