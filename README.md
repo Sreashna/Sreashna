@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F77737&height=120&section=header" />
 <h1 align="center">Hi 👋, I'm Sreeshna C</h1>
-<h3 align="center">Mobile App Developer | Android (Jetpack Compose + Kotlin) | Flutter (Dart)</h3>
+<h3 align="center">Mobile App Developer | Android (Jetpack Compose + Kotlin) | Flutter (Dart) | AR Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=F77737&width=500&lines=Mobile+Developer+%7C+Android+%26+Flutter;Jetpack+Compose+%2B+Kotlin+%2B+Dart;AR+Apps+%7C+Smooth+UI%2FUX+Design;Let's+build+awesome+apps+together!+%F0%9F%9A%80" alt="Typing SVG" />
@@ -10,11 +10,11 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 Pursuing **MVoc in Software Application Development** at CUSAT  
-- 💡 Passionate about crafting beautiful, functional **Android & Flutter** apps  
-- 🚀 Skilled in **Jetpack Compose**, **Kotlin**, **Flutter (Dart)**, **Firebase** & **AR Apps**  
-- 🌱 Currently learning advanced **AR integration** & building **custom chatbots**  
-- 📲 Love turning ideas into seamless **mobile experiences**
+- 🎓 Currently pursuing **MVoc in Software Application Development** at **CUSAT**  
+- 💡 Passionate about crafting visually stunning and functional **Android & Flutter** apps  
+- 🚀 Experienced in **Jetpack Compose**, **Kotlin**, **Flutter (Dart)**, **Firebase**, and **AR Applications**  
+- 🌱 Currently expanding my skills in **advanced AR integration** and building **AI-powered chatbots**  
+- 📱 I love transforming innovative ideas into seamless and intuitive **mobile experiences**  
 
 ---
 
@@ -44,12 +44,13 @@
 
 ### 📱 Featured Project — [*CozyCorners*](https://github.com/Sreashna/GitFlow)
 
-An **AR-powered Furniture e-commerce app** built using **Android + Jetpack Compose + AR**  
-📌 **Features**:  
-- AR visualization of furniture using ARSceneView  
-- API Integration with Retrofit  
-- Address management using RoomDB  
-- Custom chatbot & Firebase Authentication
+An **AR-powered Furniture E-commerce app** built with **Android + Jetpack Compose + AR**  
+📌 **Key Features**:  
+- **AR Visualization**: Experience furniture in your space using ARSceneView  
+- **API Integration**: Seamless product fetch with **Retrofit**  
+- **Address Management**: Users can store and manage addresses with **RoomDB**  
+- **Custom Chatbot**: AI-powered chatbot for enhanced user interaction  
+- **Firebase Authentication**: Secure user login & profile management  
 
 <p align="center">
   <a href="https://github.com/Sreashna/GitFlow"><img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/></a>
