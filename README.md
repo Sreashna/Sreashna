@@ -10,7 +10,7 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 Currently pursuing **MVoc in Software Application Development** at **CUSAT**  
+- 🎓 Post-graduated with **MVoc in Software Application Development** from **CUSAT**  
 - 💡 Passionate about crafting visually stunning and functional **Android & Flutter** apps  
 - 🚀 Experienced in **Jetpack Compose**, **Kotlin**, **Flutter (Dart)**, **Firebase**, and **AR Applications**  
 - 🌱 Currently expanding my skills in **advanced AR integration** and building **AI-powered chatbots**  
@@ -54,6 +54,24 @@ An **AR-powered Furniture E-commerce app** built with **Android + Jetpack Compos
 
 <p align="center">
   <a href="https://github.com/Sreashna/GitFlow"><img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/></a>
+</p>
+
+---
+
+### 📱 Featured Project — [*MiniTake QR Scanner*](https://github.com/Sreashna/MiniTakeQR)
+
+A **lightweight, blazing-fast QR code scanner app** built with **Jetpack Compose + CameraX + Google ML Kit**.  
+Scan QR codes in real-time and instantly open detected links in your browser.
+
+📌 **Key Features**:  
+- 🎯 Real-time QR code detection with Google ML Kit  
+- 🔗 Displays detected URLs with clickable UI to open in browser  
+- ⚡ Minimal and performant — perfect for quick scans  
+- 🎨 Modern UI built with Jetpack Compose  
+- 🔒 Only camera permission required  
+
+<p align="center">
+  <a href="https://github.com/Sreashna/MiniTakeQR"><img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/></a>
 </p>
 
 ---
