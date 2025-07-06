@@ -26,7 +26,7 @@
 
 ---
 
-## 🔥 Featured Projects <img src="https://media.giphy.com/media/HQd2Hdt3kL5eYfQdVn/giphy.gif" width="35"/>
+## 🔥 Featured Projects 
 
 ### 🚀 [CozyCorners](https://github.com/Sreashna/GitFlow)  
 An **AR-powered furniture e-commerce app** designed with **Jetpack Compose** and **ARCore**, enabling users to visualize products in real-time within their environment.
