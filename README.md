@@ -6,6 +6,17 @@
 </h3>
 
 ---
+## 👩‍💻 About Me
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="280" />
+</p>
+
+🎯 I'm **Sreeshna C**, a passionate **Mobile App Developer** who loves turning creative ideas into beautiful, functional mobile apps.  
+💻 I specialize in **Jetpack Compose**, **Kotlin**, and **Flutter**, with a flair for **AR experiences** and smooth UI/UX.  
+🧠 I enjoy building **voice-powered apps**, **smart journals**, and anything that blends design + logic.  
+🌟 I'm continuously learning, exploring new APIs, experimenting with animations, and refining the user experience.
+
 
 ## 🔥 Featured Projects
 
