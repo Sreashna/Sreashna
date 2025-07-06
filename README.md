@@ -11,37 +11,40 @@
 
 <p align="center">
   <img src="https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/>
+  <br><br>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
 </p>
 
 <p align="center">
   <b><i>Passionate Mobile App Developer | UI/UX Enthusiast | AR Explorer</i></b>
 </p>
 
-✨ Hello there! I'm <strong>Sreeshna C</strong>, a passionate and creative mobile app developer focused on building intuitive, beautiful, and meaningful digital experiences.  
-🚀 My expertise lies in **Jetpack Compose**, **Kotlin**, and **Flutter**, and I love enhancing apps with immersive **AR features**.  
-🧠 I thrive on challenges that combine design with problem-solving — from crafting smart journals to voice-powered interfaces.  
-🎨 Obsessed with UI details, fluid animations, and delivering a seamless user journey.  
-🌱 I’m a constant learner, always exploring new tools, APIs, and frameworks to keep evolving.
+<p align="justify">
+🎯 I'm <strong style="color:#F77737;">Sreeshna C</strong>, a dedicated Mobile App Developer passionate about turning creative ideas into beautiful, functional applications.<br>
+💻 I specialize in <strong>Jetpack Compose</strong>, <strong>Kotlin</strong>, and <strong>Flutter</strong>, with a flair for building immersive <strong>AR experiences</strong> and delivering polished UI/UX.<br>
+🧠 I enjoy blending logic and design through smart journals, voice-enabled tools, and clean architecture.<br>
+🌱 I’m constantly learning new tools, exploring APIs, crafting animations, and refining user-centric designs.
+</p>
 
 ---
 
-## 🔥 Featured Projects
+## 🔥 Featured Projects <img src="https://media.giphy.com/media/HQd2Hdt3kL5eYfQdVn/giphy.gif" width="35"/>
 
 ### 🚀 [CozyCorners](https://github.com/Sreashna/GitFlow)  
-An **AR-powered furniture e-commerce app** built with **Jetpack Compose** and **ARCore**, enabling users to visualize furniture in their own space.
+An **AR-powered furniture e-commerce app** designed with **Jetpack Compose** and **ARCore**, enabling users to visualize products in real-time within their environment.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/yourusername/cozycorners-demo.gif" alt="CozyCorners Demo" width="400"/>
+  <img src="https://user-images.githubusercontent.com/yourusername/cozycorners-demo.gif" width="400" />
 </p>
 
-**✨ Highlights:**  
-- 🛋️ Place furniture using AR  
-- 🌐 Fetch live product data via APIs  
-- 📍 Auto-fill delivery address with location  
-- 🤖 AI-powered chatbot for FAQs  
-- 🔐 Firebase Auth for login  
-- ☁️ Real-time sync with Firestore  
-- 📬 Push notifications using FCM
+**🌟 Key Features:**  
+- 🛋️ AR Visualization of furniture using **ARSceneView**  
+- 🌐 API Integration for live product data via **Retrofit**  
+- 📦 Address Autofill with location detection  
+- 💬 Custom FAQ Chatbot with AI integration  
+- 🔐 Firebase Authentication  
+- ☁️ Cloud Firestore  
+- 📬 Push Notifications using **FCM**
 
 <p align="center">
   <a href="https://github.com/Sreashna/GitFlow">
@@ -52,17 +55,17 @@ An **AR-powered furniture e-commerce app** built with **Jetpack Compose** and **
 ---
 
 ### 📷 [MiniTake QR Scanner](https://github.com/Sreashna/MiniTakeQR)  
-A **fast and privacy-respecting QR scanner** using **CameraX**, **Google ML Kit**, and **Jetpack Compose**.
+A blazing-fast **QR code scanner** built using **Jetpack Compose**, **CameraX**, and **Google ML Kit**.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/yourusername/minitake-demo.gif" alt="MiniTake Demo" width="400"/>
+  <img src="https://user-images.githubusercontent.com/yourusername/minitake-demo.gif" width="400"/>
 </p>
 
-**✨ Highlights:**  
-- ⚡ Real-time QR detection  
-- 🔗 Opens URLs instantly  
-- 🎨 Sleek, minimalist UI  
-- 🔒 No extra permissions — camera only
+**🌟 Key Features:**  
+- ⚡ Real-time detection  
+- 🔗 Auto-launch detected URLs  
+- 🎨 Clean Compose UI  
+- 🔒 Only camera permission used
 
 <p align="center">
   <a href="https://github.com/Sreashna/MiniTakeQR">
@@ -73,19 +76,19 @@ A **fast and privacy-respecting QR scanner** using **CameraX**, **Google ML Kit*
 ---
 
 ### 📝 [SoulScribe - Personal Diary App](https://github.com/Sreashna/diary)  
-A **smart and emotional diary app** that supports text, voice entries, image uploads, and mood tracking.
+A voice-enabled **smart diary** that lets users write, speak, and upload images — built with clean **MVVM architecture**.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/yourusername/soulscribe-demo.gif" alt="SoulScribe Demo" width="400"/>
+  <img src="https://user-images.githubusercontent.com/yourusername/soulscribe-demo.gif" width="400"/>
 </p>
 
-**✨ Highlights:**  
-- 🎙️ Speech-to-text journaling  
-- 🖼️ Upload and save diary images  
-- 🧠 Mood-based UI customization  
-- 📅 Date-based diary organization  
-- 💾 Local storage via RoomDB  
-- 🌓 Light & dark mode themes
+**🌟 Key Features:**  
+- 🎙️ Voice to Text  
+- 🖼️ Image Uploading  
+- 🧠 Mood journaling UI  
+- 📅 Custom Date Picker  
+- 💾 RoomDB storage  
+- 🌗 Dark/Light UI
 
 <p align="center">
   <a href="https://github.com/Sreashna/diary">
@@ -97,14 +100,18 @@ A **smart and emotional diary app** that supports text, voice entries, image upl
 
 ## 📌 Explore More Projects
 
-From AR experiments to chatbot integrations and clean Flutter UIs, find more exciting work here:  
-👉 [**Explore More Projects**](https://github.com/Sreashna?tab=repositories)
+You’ll find more exciting ideas and well-built apps in my other repositories — from AR experiments to chatbot integrations and UI-focused Flutter builds.  
+👉 [**Click here to explore more**](https://github.com/Sreashna?tab=repositories)
 
 ---
 
 ## 💻 Tech Stack
 
-### 🟢 Mobile
+<p align="center">
+  <img src="https://media.giphy.com/media/YlSR3n0fSnNfq/giphy.gif" width="180"/>
+</p>
+
+### 🟢 Mobile Development
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40"/>
@@ -151,6 +158,10 @@ From AR experiments to chatbot integrations and clean Flutter UIs, find more exc
 
 <p align="center">
   <i><b style="color:#F77737;">"Crafting immersive mobile experiences using Compose, Flutter, and AR 🚀"</b></i>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F77737&height=120&section=footer"/>
