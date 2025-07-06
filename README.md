@@ -105,10 +105,6 @@ You’ll find more exciting ideas and well-built apps in my other repositories �
 
 ## 💻 Tech Stack
 
-<p align="center">
-  <img src="https://media.giphy.com/media/YlSR3n0fSnNfq/giphy.gif" width="180"/>
-</p>
-
 ### 🟢 Mobile Development
 
 <p align="center">
@@ -159,7 +155,7 @@ You’ll find more exciting ideas and well-built apps in my other repositories �
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200"/>
+  <img src="[https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGc3Y3V2czRmdXBpMjl1M2J3aTR1eGx5ODlyM3MzZXRqd2FpcGF3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0GqFhyNd0Wmfo6sM/giphy.gif)" width="200"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F77737&height=120&section=footer"/>
