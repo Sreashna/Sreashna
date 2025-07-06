@@ -150,12 +150,15 @@ You’ll find more exciting ideas and well-built apps in my other repositories �
 
 ---
 
+---
+
 <p align="center">
   <i><b style="color:#F77737;">"Crafting immersive mobile experiences using Compose, Flutter, and AR 🚀"</b></i>
 </p>
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGc3Y3V2czRmdXBpMjl1M2J3aTR1eGx5ODlyM3MzZXRqd2FpcGF3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0GqFhyNd0Wmfo6sM/giphy.gif)" width="200"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGc3Y3V2czRmdXBpMjl1M2J3aTR1eGx5ODlyM3MzZXRqd2FpcGF3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0GqFhyNd0Wmfo6sM/giphy.gif" width="280"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F77737&height=120&section=footer"/>
+
