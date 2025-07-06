@@ -5,92 +5,91 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=F77737&center=true&width=650&lines=Mobile+App+Developer;Android+%28Jetpack+Compose+%2B+Kotlin%29;Flutter+%28Dart%29+%7C+AR+Developer" alt="Typing SVG" />
 </h3>
 
+---
+
 ## 👩‍💻 About Me
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="550" />
+  <img src="https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/>
 </p>
 
 <p align="center">
-  <strong style="font-size: 22px; font-family: 'Segoe UI', sans-serif; color: #F77737;">
-    Passionate Mobile App Developer | UI/UX Enthusiast | AR Explorer
-  </strong>
+  <b><i>Passionate Mobile App Developer | UI/UX Enthusiast | AR Explorer</i></b>
 </p>
 
-<div style="font-family: 'Segoe UI', sans-serif; font-size: 16px; line-height: 1.6; text-align: justify;">
+✨ Hello there! I'm <strong>Sreeshna C</strong>, a passionate and creative mobile app developer focused on building intuitive, beautiful, and meaningful digital experiences.  
+🚀 My expertise lies in **Jetpack Compose**, **Kotlin**, and **Flutter**, and I love enhancing apps with immersive **AR features**.  
+🧠 I thrive on challenges that combine design with problem-solving — from crafting smart journals to voice-powered interfaces.  
+🎨 Obsessed with UI details, fluid animations, and delivering a seamless user journey.  
+🌱 I’m a constant learner, always exploring new tools, APIs, and frameworks to keep evolving.
 
-🎯 I'm <strong style="color:#F77737;">Sreeshna C</strong>, a dedicated Mobile App Developer passionate about turning creative ideas into beautiful, functional applications.  
-💻 I specialize in <strong>Jetpack Compose</strong>, <strong>Kotlin</strong>, and <strong>Flutter</strong>, with a flair for building immersive <strong>AR experiences</strong> and delivering polished UI/UX.  
-🧠 I enjoy blending logic and design through smart journals, voice-enabled tools, and clean architecture.  
-🌱 I'm constantly learning new tools, exploring APIs, crafting animations, and refining user-centric designs.
-
-</div>
+---
 
 ## 🔥 Featured Projects
 
 ### 🚀 [CozyCorners](https://github.com/Sreashna/GitFlow)  
-An **AR-powered furniture e-commerce app** designed with **Jetpack Compose** and **ARCore**, enabling users to visualize products in real-time within their environment.
+An **AR-powered furniture e-commerce app** built with **Jetpack Compose** and **ARCore**, enabling users to visualize furniture in their own space.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/yourusername/cozycorners-demo.gif" alt="CozyCorners Demo" width="400" style="border-radius:12px; box-shadow: 0 4px 12px rgba(247,119,55,0.4);" />
+  <img src="https://user-images.githubusercontent.com/yourusername/cozycorners-demo.gif" alt="CozyCorners Demo" width="400"/>
 </p>
 
-**🌟 Key Features:**  
-- 🛋️ **AR Visualization** of furniture using **ARSceneView**  
-- 🌐 **API Integration** for live product data via **Retrofit**  
-- 📦 **Address Autofill** with location detection  
-- 💬 **Custom FAQ Chatbot** with AI integration  
-- 🔐 **Firebase Authentication** for user login  
-- ☁️ **Cloud Firestore** for real-time product & user data  
-- 📬 **Push Notifications** using **Firebase Cloud Messaging (FCM)**  
+**✨ Highlights:**  
+- 🛋️ Place furniture using AR  
+- 🌐 Fetch live product data via APIs  
+- 📍 Auto-fill delivery address with location  
+- 🤖 AI-powered chatbot for FAQs  
+- 🔐 Firebase Auth for login  
+- ☁️ Real-time sync with Firestore  
+- 📬 Push notifications using FCM
 
 <p align="center">
   <a href="https://github.com/Sreashna/GitFlow">
-    <img src="https://img.shields.io/badge/View%20Repo-F77737?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/View%20Repo-F77737?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 ### 📷 [MiniTake QR Scanner](https://github.com/Sreashna/MiniTakeQR)  
-A blazing-fast **QR code scanner** built using **Jetpack Compose**, **CameraX**, and **Google ML Kit**. Designed for **speed**, **lightweight performance**, and a smooth **Compose UI**.
+A **fast and privacy-respecting QR scanner** using **CameraX**, **Google ML Kit**, and **Jetpack Compose**.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/yourusername/minitake-demo.gif" alt="MiniTake Demo" width="400" style="border-radius:12px; box-shadow: 0 4px 12px rgba(247,119,55,0.4);" />
+  <img src="https://user-images.githubusercontent.com/yourusername/minitake-demo.gif" alt="MiniTake Demo" width="400"/>
 </p>
 
-**🌟 Key Features:**  
-- ⚡ Real-time detection with **Google ML Kit**  
-- 🔗 Auto-launch detected URLs in browser  
-- 🎨 Beautiful and modern UI design  
-- 🔒 Only uses **camera permission**, ensuring privacy  
+**✨ Highlights:**  
+- ⚡ Real-time QR detection  
+- 🔗 Opens URLs instantly  
+- 🎨 Sleek, minimalist UI  
+- 🔒 No extra permissions — camera only
 
 <p align="center">
   <a href="https://github.com/Sreashna/MiniTakeQR">
-    <img src="https://img.shields.io/badge/View%20Repo-F77737?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/View%20Repo-F77737?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 ### 📝 [SoulScribe - Personal Diary App](https://github.com/Sreashna/diary)  
-A **smart diary app** that lets users write or **speak their thoughts**, add **images**, and reflect on their daily mood. Built with **Jetpack Compose + Kotlin** following clean **MVVM architecture**.
+A **smart and emotional diary app** that supports text, voice entries, image uploads, and mood tracking.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/yourusername/soulscribe-demo.gif" alt="SoulScribe Demo" width="400" style="border-radius:12px; box-shadow: 0 4px 12px rgba(247,119,55,0.4);" />
+  <img src="https://user-images.githubusercontent.com/yourusername/soulscribe-demo.gif" alt="SoulScribe Demo" width="400"/>
 </p>
 
-**🌟 Key Features:**  
-- 🎙️ **Voice to Text** with SpeechRecognizer API  
-- 🖼️ **Image Uploading** via file picker  
-- 🧠 Mood-oriented journaling UI  
-- 📅 Custom Date Picker for each entry  
-- 💾 Data storage using local **RoomDB**  
-- 🧭 Clean navigation and dark/light themed UI  
+**✨ Highlights:**  
+- 🎙️ Speech-to-text journaling  
+- 🖼️ Upload and save diary images  
+- 🧠 Mood-based UI customization  
+- 📅 Date-based diary organization  
+- 💾 Local storage via RoomDB  
+- 🌓 Light & dark mode themes
 
 <p align="center">
   <a href="https://github.com/Sreashna/diary">
-    <img src="https://img.shields.io/badge/View%20Repo-F77737?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/View%20Repo-F77737?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -98,30 +97,29 @@ A **smart diary app** that lets users write or **speak their thoughts**, add **i
 
 ## 📌 Explore More Projects
 
-You’ll find more exciting ideas and well-built apps in my other repositories — from AR experiments to chatbot integrations and UI-focused Flutter builds.  
-👉 [**Click here to explore more**](https://github.com/Sreashna?tab=repositories)
+From AR experiments to chatbot integrations and clean Flutter UIs, find more exciting work here:  
+👉 [**Explore More Projects**](https://github.com/Sreashna?tab=repositories)
 
 ---
 
 ## 💻 Tech Stack
 
-### 🟢 Mobile Development
+### 🟢 Mobile
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40" style="margin: 5px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Jetpack Compose" width="40" height="40" style="margin: 5px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40" style="margin: 5px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" height="40" style="margin: 5px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40"/>
 </p>
 
-### 🟠 Backend & Dev Tools
+### 🟠 Backend & Tools
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40" style="margin: 5px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Firestore" width="40" height="40" style="margin: 5px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="FCM" width="40" height="40" style="margin: 5px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="RoomDB" width="40" height="40" style="margin: 5px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Retrofit" width="40" height="40" style="margin: 5px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
 </p>
 
 ---
@@ -129,8 +127,8 @@ You’ll find more exciting ideas and well-built apps in my other repositories �
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sreashna&show_icons=true&theme=radical" alt="Sreeshna's GitHub Stats" width="350" style="margin: 10px;"/>
-  <img src="https://streak-stats.demolab.com/?user=Sreashna&theme=radical" alt="GitHub Streak" width="350" style="margin: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sreashna&show_icons=true&theme=radical" width="350"/>
+  <img src="https://streak-stats.demolab.com/?user=Sreashna&theme=radical" width="350"/>
 </p>
 
 ---
@@ -139,20 +137,20 @@ You’ll find more exciting ideas and well-built apps in my other repositories �
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sreeshnac/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:sreeshnacnair@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/Sreashna" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<p align="center" style="font-style: italic; color:#F77737;">
-  "Crafting immersive mobile experiences using Compose, Flutter, and AR 🚀"
+<p align="center">
+  <i><b style="color:#F77737;">"Crafting immersive mobile experiences using Compose, Flutter, and AR 🚀"</b></i>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F77737&height=120&section=footer"/>
