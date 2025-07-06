@@ -157,8 +157,9 @@ Youâ€™ll find more exciting ideas and well-built apps in my other repositories â
 </p>
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHFzcHFxd3h6dWprZHdneDUxeHV5b2lsa3d1N2FuemV5dzU4dHRycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="280"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2V4ZmYzZzhmMzNsNXJibWQ5dG4zcGg4Y2ZuOWMwbmU0Y3c4YzEzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R1c7rUJA7uMoM/giphy.gif" width="280"/>
 </p>
+
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F77737&height=120&section=footer"/>
