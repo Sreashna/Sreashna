@@ -1,33 +1,14 @@
 <!-- Header waving capsule -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F77737&height=120&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F77737&height=120&section=header" alt="waving header"/>
 
-<!-- Shimmer heading with inline CSS animation -->
-<h1 align="center">
-  <span style="
-    background: linear-gradient(270deg, #f77737, #ffbc6a, #f77737);
-    background-size: 600% 600%;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    animation: shimmer 5s ease-in-out infinite;
-    font-weight: 800;
-    font-size: 3rem;
-  ">
-    Hi 👋, I'm Sreeshna C
-  </span>
-</h1>
+<!-- Animated typing SVG for intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=F77737&center=true&width=600&lines=Hi+%F0%9F%91%8B,+I'm+Sreeshna+C" alt="Hi, I'm Sreeshna C" />
+</p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=F77737&center=true&width=700&lines=Mobile+App+Developer;Android+%28Jetpack+Compose+%2B+Kotlin%29;Flutter+%28Dart%29+%7C+AR+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=F77737&center=true&width=700&lines=Mobile+App+Developer;Android+%28Jetpack+Compose+%2B+Kotlin%29;Flutter+%28Dart%29+%7C+AR+Developer" alt="typing subtitle"/>
 </h3>
-
-<!-- Shimmer animation keyframes -->
-<style>
-@keyframes shimmer {
-  0%{background-position:0% 50%}
-  50%{background-position:100% 50%}
-  100%{background-position:0% 50%}
-}
-</style>
 
 ---
 
@@ -38,11 +19,10 @@
 <p align="center">
   <a href="https://github.com/Sreashna/GitFlow" target="_blank" rel="noopener noreferrer">
     <img
-      src="https://user-images.githubusercontent.com/yourusername/cozycorners-demo.gif"
-      alt="CozyCorners Demo"
+      src="https://via.placeholder.com/400x240.png?text=CozyCorners+Screenshot"
+      alt="CozyCorners Screenshot"
       width="400"
-      style="border-radius:12px; box-shadow: 0 6px 20px rgba(247,119,55,0.6);
-      transition: transform 0.3s ease;"
+      style="border-radius:12px; box-shadow: 0 6px 20px rgba(247,119,55,0.6); transition: transform 0.3s ease;"
       onmouseover="this.style.transform='scale(1.05)';"
       onmouseout="this.style.transform='scale(1)';"
     />
@@ -71,11 +51,10 @@
 <p align="center">
   <a href="https://github.com/Sreashna/MiniTakeQR" target="_blank" rel="noopener noreferrer">
     <img
-      src="https://user-images.githubusercontent.com/yourusername/minitake-demo.gif"
-      alt="MiniTake Demo"
+      src="https://via.placeholder.com/400x240.png?text=MiniTake+QR+Scanner+Screenshot"
+      alt="MiniTake QR Scanner Screenshot"
       width="400"
-      style="border-radius:12px; box-shadow: 0 6px 20px rgba(247,119,55,0.6);
-      transition: transform 0.3s ease;"
+      style="border-radius:12px; box-shadow: 0 6px 20px rgba(247,119,55,0.6); transition: transform 0.3s ease;"
       onmouseover="this.style.transform='scale(1.05)';"
       onmouseout="this.style.transform='scale(1)';"
     />
@@ -101,11 +80,10 @@
 <p align="center">
   <a href="https://github.com/Sreashna/diary" target="_blank" rel="noopener noreferrer">
     <img
-      src="https://user-images.githubusercontent.com/yourusername/soulscribe-demo.gif"
-      alt="SoulScribe Demo"
+      src="https://via.placeholder.com/400x240.png?text=SoulScribe+Diary+Screenshot"
+      alt="SoulScribe Diary Screenshot"
       width="400"
-      style="border-radius:12px; box-shadow: 0 6px 20px rgba(247,119,55,0.6);
-      transition: transform 0.3s ease;"
+      style="border-radius:12px; box-shadow: 0 6px 20px rgba(247,119,55,0.6); transition: transform 0.3s ease;"
       onmouseover="this.style.transform='scale(1.05)';"
       onmouseout="this.style.transform='scale(1)';"
     />
@@ -143,18 +121,18 @@ You’ll find more exciting ideas and well-built apps in my other repositories �
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="50" height="50" style="margin: 5px; filter: drop-shadow(0 0 2px #F77737);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Jetpack Compose" width="50" height="50" style="margin: 5px; filter: drop-shadow(0 0 2px #4285F4);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="50" height="50" style="margin: 5px; filter: drop-shadow(0 0 2px #02569B);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="50" height="50" style="margin: 5px; filter: drop-shadow(0 0 2px #0175C2);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="50" height="50" style="margin: 5px; filter: drop-shadow(0 0 3px #F77737);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Jetpack Compose" width="50" height="50" style="margin: 5px; filter: drop-shadow(0 0 3px #4285F4);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="50" height="50" style="margin: 5px; filter: drop-shadow(0 0 3px #02569B);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="50" height="50" style="margin: 5px; filter: drop-shadow(0 0 3px #0175C2);" />
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="50" height="50" style="margin: 5px; filter: drop-shadow(0 0 2px #FFCA28);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Firestore" width="50" height="50" style="margin: 5px; filter: drop-shadow(0 0 2px #FF7043);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="FCM" width="50" height="50" style="margin: 5px; filter: drop-shadow(0 0 2px #FFA000);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="RoomDB" width="50" height="50" style="margin: 5px; filter: drop-shadow(0 0 2px #4479A1);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Retrofit" width="50" height="50" style="margin: 5px; filter: drop-shadow(0 0 2px #009688);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="50" height="50" style="margin: 5px; filter: drop-shadow(0 0 3px #FFCA28);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Firestore" width="50" height="50" style="margin: 5px; filter: drop-shadow(0 0 3px #FF7043);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="FCM" width="50" height="50" style="margin: 5px; filter: drop-shadow(0 0 3px #FFA000);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="RoomDB" width="50" height="50" style="margin: 5px; filter: drop-shadow(0 0 3px #4479A1);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Retrofit" width="50" height="50" style="margin: 5px; filter: drop-shadow(0 0 3px #009688);" />
 </p>
 
 ---
@@ -162,8 +140,8 @@ You’ll find more exciting ideas and well-built apps in my other repositories �
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sreashna&show_icons=true&theme=radical" alt="Sreeshna's GitHub Stats" width="350" style="margin: 10px;"/>
-  <img src="https://streak-stats.demolab.com/?user=Sreashna&theme=radical" alt="GitHub Streak" width="350" style="margin: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sreashna&show_icons=true&theme=radical" alt="Sreeshna's GitHub Stats" width="350" style="margin: 10px;" />
+  <img src="https://streak-stats.demolab.com/?user=Sreashna&theme=radical" alt="GitHub Streak" width="350" style="margin: 10px;" />
 </p>
 
 ---
@@ -188,4 +166,4 @@ You’ll find more exciting ideas and well-built apps in my other repositories �
   "Crafting immersive mobile experiences using Compose, Flutter, and AR 🚀"
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F77737&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F77737&height=120&section=footer" alt="footer waving" />
