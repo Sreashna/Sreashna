@@ -1,116 +1,75 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F77737&height=120&section=header" />
-<h1 align="center">Hi 👋, I'm Sreeshna C</h1>
-<h3 align="center">Mobile App Developer | Android (Jetpack Compose + Kotlin) | Flutter (Dart) | AR Developer</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F77737&height=120&section=header" /> <h1 align="center">Hi 👋, I'm Sreeshna C</h1> <h3 align="center">Mobile App Developer | Android (Jetpack Compose + Kotlin) | Flutter (Dart) | AR Enthusiast</h3> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=F77737&width=600&lines=Jetpack+Compose+%7C+Flutter+%7C+Kotlin+%7C+Dart;Crafting+Immersive+Mobile+Apps;Android+%7C+AR+%7C+Firebase+%7C+RoomDB;Let's+build+something+awesome+!+🚀" /> </p>
+👩‍💻 About Me
+🎓 MVoc in Software Application Development – CUSAT
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=F77737&width=500&lines=Mobile+Developer+%7C+Android+%26+Flutter;Jetpack+Compose+%2B+Kotlin+%2B+Dart;AR+Apps+%7C+Smooth+UI%2FUX+Design;Let's+build+awesome+apps+together!+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+💡 Passionate about creating meaningful and modern mobile experiences
 
----
+💻 Skilled in Kotlin, Flutter (Dart), Firebase, Jetpack Compose, and AR
 
-### 👩‍💻 About Me
+🚀 Exploring AI integration & speech-based UI in apps
 
-- 🎓 Post-graduated with **MVoc in Software Application Development** from **CUSAT**  
-- 💡 Passionate about crafting visually stunning and functional **Android & Flutter** apps  
-- 🚀 Experienced in **Jetpack Compose**, **Kotlin**, **Flutter (Dart)**, **Firebase**, and **AR Applications**  
-- 🌱 Currently expanding my skills in **advanced AR integration** and building **AI-powered chatbots**  
-- 📱 I love transforming innovative ideas into seamless and intuitive **mobile experiences**  
+✨ Strong focus on smooth UI/UX, performance, and modular architecture
 
----
+🛠 Tech Stack
+📱 Mobile App Development
+<p> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Jetpack%20Compose-3DDC84?style=for-the-badge&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/> </p>
+🔧 Backend & Tools
+<p> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/> <img src="https://img.shields.io/badge/RoomDB-4DB33D?style=for-the-badge&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/Retrofit-009688?style=for-the-badge&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/ARCore-FF7043?style=for-the-badge&logo=google&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> </p>
+📱 Featured Projects
+🚪 1. CozyCorners
+An AR-powered Furniture E-commerce app that lets users preview furniture in their real-world space and purchase it easily via a modern UI.
 
-### 🛠️ Tech Stack
+💎 Highlights:
 
-#### 🟢 **Mobile Development**
+🛋️ AR View for realistic furniture visualization
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SwiftUI-F05138?style=for-the-badge&logo=swift&logoColor=white"/>
-</p>
+🔐 Firebase Authentication
 
-#### 🟠 **Backend & Tools**
+☁️ Firebase Firestore for product & user data
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RoomDB-4479A1?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Retrofit-009688?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ARSceneView-FF7043?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+🔔 FCM notifications for real-time updates
 
----
+🧠 Integrated chatbot for smart help
 
-### 📱 Featured Project — [*CozyCorners*](https://github.com/Sreashna/GitFlow)
+📦 Address & cart management using RoomDB + Retrofit
 
-An **AR-powered Furniture E-commerce app** built with **Android + Jetpack Compose + AR**  
-📌 **Key Features**:  
-- **AR Visualization**: Experience furniture in your space using ARSceneView  
-- **API Integration**: Seamless product fetch with **Retrofit**  
-- **Address Management**: Users can store and manage addresses with **RoomDB**  
-- **Custom Chatbot**: AI-powered chatbot for enhanced user interaction  
-- **Firebase Authentication**: Secure user login & profile management  
+<p align="center"> <a href="https://github.com/Sreashna/GitFlow"><img src="https://img.shields.io/badge/View%20CozyCorners-181717?style=for-the-badge&logo=github&logoColor=white" /></a> </p>
+📷 2. MiniTake QR Scanner
+A fast and minimal QR code scanner using Jetpack Compose, CameraX, and ML Kit.
 
-<p align="center">
-  <a href="https://github.com/Sreashna/GitFlow"><img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/></a>
-</p>
+💎 Highlights:
 
----
+⚡ Real-time detection with Google ML Kit
 
-### 📱 Featured Project — [*MiniTake QR Scanner*](https://github.com/Sreashna/MiniTakeQR)
+🔗 Clickable link preview & copy
 
-A **lightweight, blazing-fast QR code scanner app** built with **Jetpack Compose + CameraX + Google ML Kit**.  
-Scan QR codes in real-time and instantly open detected links in your browser.
+📱 Simple UI with just one permission
 
-📌 **Key Features**:  
-- 🎯 Real-time QR code detection with Google ML Kit  
-- 🔗 Displays detected URLs with clickable UI to open in browser  
-- ⚡ Minimal and performant — perfect for quick scans  
-- 🎨 Modern UI built with Jetpack Compose  
-- 🔒 Only camera permission required  
+🧠 Lightweight and battery-efficient
 
-<p align="center">
-  <a href="https://github.com/Sreashna/MiniTakeQR"><img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/></a>
-</p>
+<p align="center"> <a href="https://github.com/Sreashna/MiniTakeQR"><img src="https://img.shields.io/badge/View%20MiniTake-181717?style=for-the-badge&logo=github&logoColor=white" /></a> </p>
+📓 3. MoodMate Diary
+A mood-managing diary app that lets users speak, write, and upload their daily feelings and save them with a beautiful interface.
 
----
+💎 Highlights:
 
-### 📈 GitHub Stats
+🎙 Audio-to-text journaling using Android’s SpeechRecognizer
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sreashna&show_icons=true&theme=radical" alt="Sreeshna's GitHub Stats"/>
-</p>
+🖼️ Upload photos to express your day visually
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Sreashna&theme=radical" alt="GitHub Streak"/>
-</p>
+🗓️ Date selector to backdate or schedule entries
 
----
+💾 Offline storage using RoomDB
 
-### ✨ Let's Connect
+🌈 Soft UI with pastel themes for emotional comfort
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/sreeshnac/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:sreeshnacnair@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://github.com/Sreashna/GitFlow" target="blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
+📂 Favorites screen for viewing saved memories
 
----
-
-### 💬 Languages I Know
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SwiftUI-F05138?style=for-the-badge&logo=swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
----
-
-<p align="center"><i>“Building immersive mobile experiences with Kotlin & Flutter 🚀”</i></p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F77737&height=120&section=header" />
+<p align="center"> <a href="https://github.com/Sreashna/diary"><img src="https://img.shields.io/badge/View%20MoodMate-181717?style=for-the-badge&logo=github&logoColor=white" /></a> </p>
+📈 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sreashna&show_icons=true&theme=radical&hide_border=true&border_radius=10" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=Sreashna&theme=radical&hide_border=true&border_radius=10" /> </p>
+🌐 Connect with Me
+<p align="center"> <a href="https://www.linkedin.com/in/sreeshnac/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:sreeshnacnair@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/Sreashna"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
+💬 Languages I Know
+<p align="left"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/SwiftUI-F05138?style=for-the-badge&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> </p>
+<p align="center"><i>“Building immersive mobile experiences with Kotlin & Flutter 🚀”</i></p> <img src="https://capsule-render.vercel.app/api?type=waving&color=F77737&height=120&section=footer" />
