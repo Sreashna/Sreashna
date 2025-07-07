@@ -95,21 +95,22 @@ A voice-enabled **smart diary** that lets users write, speak, and upload images 
 </p>
 
 ### 🎥 [VlogMe - Personal Vlogging App](https://github.com/Sreashna/VlogMe)  
-A lightweight **video diary app** that lets users record short vlogs, save moods and titles, and replay them anytime — built using **Jetpack Compose** + **CameraX**.
+A lightweight **vlogging app** that allows users to record short videos, add moods and titles, and replay them — built with clean **MVVM architecture**.
 
 **🌟 Key Features:**  
-- 🎬 Video recording using CameraX  
-- 📝 Add title, mood, and timestamp  
-- 🧠 Simple and clean MVVM structure  
-- 💾 RoomDB for local vlog storage  
-- 🎥 In-app video playback  
-- 🌑 Black & White minimal UI
+- 🎬 Record vlogs using CameraX  
+- 📝 Add mood and title after recording  
+- ▶️ In-app video playback using VideoView  
+- 💾 Store vlogs locally with RoomDB  
+- ⚙️ Uses MediaStore for file access  
+- 🌗 Clean black-and-white themed UI
 
 <p align="center">
   <a href="https://github.com/Sreashna/VlogMe">
     <img src="https://img.shields.io/badge/View%20Repo-F77737?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
 
 
 ---
