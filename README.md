@@ -97,7 +97,6 @@ A voice-enabled **smart diary** that lets users write, speak, and upload images 
 🎥 VlogMe - Personal Vlogging App
 A modern vlogging diary app where you can record videos, add title and mood, and view past memories — designed using Jetpack Compose, CameraX, and RoomDB with a sleek black & white UI.
 
-<p align="center"> <img src="https://media.giphy.com/media/3ohzdZfWzxZ0sYjvI4/giphy.gif" width="400"/> </p>
 🌟 Key Features:
 
 🎤 Record video with audio using CameraX
