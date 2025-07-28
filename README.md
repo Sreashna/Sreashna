@@ -110,6 +110,29 @@ A lightweight **vlogging app** that allows users to record short videos, add moo
     <img src="https://img.shields.io/badge/View%20Repo-F77737?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+---
+
+### ☕ [Brew Haven](https://github.com/Sreashna/coffeeshop)  
+A beautifully crafted **coffee shop app** built with **Flutter**, featuring an elegant UI and smooth navigation with bottom tabs.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/yourusername/brewhaven-demo.gif" width="400"/>
+</p>
+
+**🌟 Key Features:**  
+- 🏠 Splash screen as entry point  
+- 📜 Home screen with greeting, search, banners, and coffee list  
+- ❤️ Favourite button in details screen  
+- ⭐ Favourites screen to display liked coffees  
+- 🔄 Bottom navigation (Home | Favourites | Account)  
+- 🖼️ Clean and modern Flutter UI  
+
+<p align="center">
+  <a href="https://github.com/Sreashna/coffeeshop">
+    <img src="https://img.shields.io/badge/View%20Repo-F77737?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
 
 
 
