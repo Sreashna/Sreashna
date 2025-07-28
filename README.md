@@ -110,7 +110,6 @@ A lightweight **vlogging app** that allows users to record short videos, add moo
     <img src="https://img.shields.io/badge/View%20Repo-F77737?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
----
 
 ### ☕ [Brew Haven](https://github.com/Sreashna/coffeeshop)  
 A beautifully crafted **coffee shop app** built with **Flutter**, featuring an elegant UI and smooth navigation with bottom tabs.
