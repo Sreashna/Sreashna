@@ -131,24 +131,19 @@ A beautifully crafted **coffee shop app** built with **Flutter**, featuring an e
     <img src="https://img.shields.io/badge/View%20Repo-F77737?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-🚀 PetStore - Flutter App
 
+
+### 🚀 [PetStore](https://github.com/Sreashna/pet_store) 
 A Flutter-based mobile app for browsing and purchasing pet-related products, featuring a clean UI, dynamic data loading, and state management with GetX.
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/yourusername/petstore-demo.gif" width="400" /> </p>
 
-🌟 Key Features:
-
+**🌟 Key Features:**  
 🌍 Location Fetching to show nearby pet stores and products
-
 📦 Custom JSON Parsing for dynamic product and pet data
-
 💖 Favorites: Save pets/products to the favorites list
-
 🛒 Add to Cart & Buy Now for seamless shopping experience
-
 📱 Detail Screen to showcase product/pet images, descriptions, and prices
-
 🔄 State Management with GetX for smooth data handling and UI updates
 
 <p align="center"> <a href="https://github.com/Sreashna/pet_store"> <img src="https://img.shields.io/badge/View%20Repo-F77737?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
