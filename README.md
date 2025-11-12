@@ -131,7 +131,7 @@ A beautifully crafted **coffee shop app** built with **Flutter**, featuring an e
     <img src="https://img.shields.io/badge/View%20Repo-F77737?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-🐾 PetStore - Flutter App
+🚀 PetStore - Flutter App
 
 A Flutter-based mobile app for browsing and purchasing pet-related products, featuring a clean UI, dynamic data loading, and state management with GetX.
 
@@ -151,7 +151,7 @@ A Flutter-based mobile app for browsing and purchasing pet-related products, fea
 
 🔄 State Management with GetX for smooth data handling and UI updates
 
-<p align="center"> <a href="https://github.com/Sreashna/PetStore"> <img src="https://img.shields.io/badge/View%20Repo-F77737?style=for-the-badge&logo=github&log
+<p align="center"> <a href="https://github.com/Sreashna/pet_store"> <img src="https://img.shields.io/badge/View%20Repo-F77737?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
 
 
 
