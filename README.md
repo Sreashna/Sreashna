@@ -94,6 +94,8 @@ A voice-enabled **smart diary** that lets users write, speak, and upload images 
   </a>
 </p>
 
+---
+
 ### 🎥 [VlogMe - Personal Vlogging App](https://github.com/Sreashna/VlogMe)  
 A lightweight **vlogging app** that allows users to record short videos, add moods and titles, and replay them — built with clean **MVVM architecture**.
 
@@ -110,6 +112,8 @@ A lightweight **vlogging app** that allows users to record short videos, add moo
     <img src="https://img.shields.io/badge/View%20Repo-F77737?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
+---
 
 ### ☕ [Brew Haven](https://github.com/Sreashna/coffeeshop)  
 A beautifully crafted **coffee shop app** built with **Flutter**, featuring an elegant UI and smooth navigation with bottom tabs.
@@ -131,6 +135,8 @@ A beautifully crafted **coffee shop app** built with **Flutter**, featuring an e
     <img src="https://img.shields.io/badge/View%20Repo-F77737?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
+---
 
 
 ### 🐾 [PetStore - Flutter App](https://github.com/Sreashna/pet_store)  
