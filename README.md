@@ -133,27 +133,28 @@ A beautifully crafted **coffee shop app** built with **Flutter**, featuring an e
 </p>
 
 
-### 🚀 [PetStore](https://github.com/Sreashna/pet_store) 
-A Flutter-based mobile app for browsing and purchasing pet-related products, featuring a clean UI, dynamic data loading, and state management with GetX.
+### 🐾 [PetStore - Flutter App](https://github.com/Sreashna/pet_store)  
+A **Flutter-based mobile app** for browsing and purchasing pet-related products, featuring a clean UI, dynamic data loading, and state management with **GetX**.
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/yourusername/petstore-demo.gif" width="400" /> </p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/yourusername/petstore-demo.gif" width="400" />
+</p>
 
 **🌟 Key Features:**  
-🌍 Location Fetching to display nearby pet stores and products
+- 🌍 **Location Fetching** to display nearby pet stores and products  
+- 📦 **Custom JSON Parsing** for dynamic product and pet data  
+- 💖 **Favorites**: Save pets/products to the favorites list  
+- 🛒 **Add to Cart** & **Buy Now** for easy shopping experience  
+- 📱 **Product Details Screen** to showcase images, descriptions, and prices  
+- 🔄 **State Management with GetX** for seamless UI and data updates  
+- 🐾 **Category-based Pet Products** for easy browsing
 
-📦 Custom JSON Parsing for dynamic product and pet data
+<p align="center">
+  <a href="https://github.com/Sreashna/pet_store">
+    <img src="https://img.shields.io/badge/View%20Repo-F77737?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-💖 Favorites: Save pets/products to the favorites list
-
-🛒 Add to Cart & Buy Now for easy shopping experience
-
-📱 Product Details Screen to showcase images, descriptions, and prices
-
-🔄 State Management with GetX for seamless UI and data updates
-
-🐾 Category-based Pet Products for easy browsing
-
-<p align="center"> <a href="https://github.com/Sreashna/pet_store"> <img src="https://img.shields.io/badge/View%20Repo-F77737?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
 
 
 
